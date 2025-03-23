@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anzoo</h1>
 <h3 align="center">A typical python dev</h3>
-what can i add to my multi tool 
+
+- 🔭 I’m currently working on [Flux](https://github.com/Anzoodev/Flux-MultiTool)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Anzoodev](https://github.com/Anzoodev)
 
 - 📫 How to reach me **anzoo7373@gmail.com**
 
@@ -10,3 +13,4 @@ what can i add to my multi tool
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+PS: i will drop FLUX-MULTI TOOL when it will be finshed  31.03.2025 or 15.04.2025
