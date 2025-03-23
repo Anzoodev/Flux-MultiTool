@@ -14,3 +14,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 PS: i will drop FLUX-MULTI TOOL when it will be finshed  31.03.2025 or 15.04.2025
+![Image](https://github.com/user-attachments/assets/94ec27b4-9c3f-437d-8fb8-8415aab9a12e)
