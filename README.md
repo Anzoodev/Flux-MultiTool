@@ -23,4 +23,4 @@ This project has been created with good intentions and is intended for personal 
 
 Flux tool dosent bears no consequences if you open it you accept full responsibility for yourself.
 
-![image alt](https://github.com/Anzoodev/Flux-MultiTool/blob/f447411690c98115545328fc75ccc00fc0e2cc10/flux.alpha.02.png)
+
